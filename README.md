@@ -1,1 +1,1 @@
-# OSU-CS340-Fall-2021
+# OSU CS340 Fall 2021
